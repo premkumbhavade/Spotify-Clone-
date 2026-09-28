@@ -1,0 +1,112 @@
+[
+    {
+        "folder": "Angry_(mood)",
+        "title": "Angry Mood",
+        "description": "Songs for an intense mood",
+        "cover": "cover.jpg",
+        "songs": [
+            "Imagine Dragons - Believer (Official Music Video).mp3",
+            "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends).mp3"
+        ]
+    },
+    {
+        "folder": "Bright_(mood)",
+        "title": "Bright Mood",
+        "description": "Happy and energetic songs",
+        "cover": "cover.jpg",
+        "songs": [
+            "Justin Timberlake - CAN'T STOP THE FEELING! (from DreamWorks Animation's TROLLS ) (Official Video).mp3",
+            "Pharrell Williams - Happy (Official Video).mp3"
+        ]
+    },
+    {
+        "folder": "Chill_(mood)",
+        "title": "Chill Mood",
+        "description": "Relax and chill",
+        "cover": "cover.jpg",
+        "songs": [
+            "Lauv - I Like Me Better [Official Video].mp3",
+            "Stephen Sanchez - Until I Found You (Official Video).mp3"
+        ]
+    },
+    {
+        "folder": "cs",
+        "title": "CS",
+        "description": "Hindi hits",
+        "cover": "cover.jpg",
+        "songs": [
+            "Kesariya - Brahmāstra Ranbir Kapoor Alia Bhatt Pritam Arijit Singh Amitabh Bhattacharya 4K.mp3",
+            "Apna Bana Le - Bhediya Varun Dhawan, Kriti Sanon Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya.mp3"
+        ]
+    },
+    {
+        "folder": "Dark_(mood)",
+        "title": "Dark Mood",
+        "description": "Dark and atmospheric songs",
+        "cover": "cover.jpg",
+        "songs": [
+            "Billie Eilish, Khalid - lovely.mp3",
+            "twenty one pilots Heathens (from Suicide Squad The Album) [OFFICIAL VIDEO].mp3"
+        ]
+    },
+    {
+        "folder": "Diljit",
+        "title": "Diljit Dosanjh",
+        "description": "Diljit Dosanjh hits",
+        "cover": "cover.jpg",
+        "songs": [
+            "Diljit Dosanjh - G.O.A.T. (Official Music Video).mp3",
+            "Diljit Dosanjh Born To Shine (Official Music Video) G.O.A.T.mp3"
+        ]
+    },
+    {
+        "folder": "Funky_(mood)",
+        "title": "Funky Mood",
+        "description": "Funky and groovy songs",
+        "cover": "cover.jpg",
+        "songs": [
+            "Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.mp3",
+            "Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers.mp3"
+        ]
+    },
+    {
+        "folder": "karan aujla",
+        "title": "Karan Aujla",
+        "description": "Karan Aujla hits",
+        "cover": "cover.jpg",
+        "songs": [
+            "Aaye Haaye (Official Video) Karan Aujla, Nora Fatehi, Neha Kakkar, Jay Trak Bhushan Kumar.mp3",
+            "For A Reason (Official Video) Karan Aujla Tania Latest Punjabi Songs 2025.mp3"
+        ]
+    },
+    {
+        "folder": "Love_(mood)",
+        "title": "Love Mood",
+        "description": "Romantic songs",
+        "cover": "cover.jpg",
+        "songs": [
+            "Ed Sheeran - Perfect (Official Music Video).mp3",
+            "John Legend - All of Me (Official Video).mp3"
+        ]
+    },
+    {
+        "folder": "ncs",
+        "title": "NCS",
+        "description": "NoCopyrightSounds",
+        "cover": "cover.jpg",
+        "songs": [
+            "Alan Walker - Fade [COPYRIGHTED NCS Release].mp3",
+            "Elektronomia - Sky High Progressive House NCS - Copyright Free Music.mp3"
+        ]
+    },
+    {
+        "folder": "Uplifting_(mood)",
+        "title": "Uplifting Mood",
+        "description": "Motivational and uplifting songs",
+        "cover": "cover.jpg",
+        "songs": [
+            "Imagine Dragons - On Top Of The World (Official Music Video).mp3",
+            "The Script - Hall of Fame (Official Video) ft. will.i.am.mp3"
+        ]
+    }
+]
